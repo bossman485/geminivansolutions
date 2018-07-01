@@ -1,0 +1,84 @@
+/* Navbar Styling */
+
+nav img {
+    position: relative;
+    max-width: 10%;
+    border-radius: 50%;
+}
+
+nav {
+    position: relative;
+    top: 0;
+    font-size: 1.2em;
+}
+
+.twitter {
+    float: right;
+    font-size: 3em;
+}
+
+/* Carousel Styling */
+
+.carousel {
+    margin: 0 auto;
+    max-width: 1080px;
+    max-height: auto;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.item {
+    width: 100%;
+    height: 100%;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.item img {
+    visibility: contain;
+}
+.envelope {
+    font-size: 3em;
+    margin-right: 20px;
+    
+}
+
+/* Features Styling */
+
+h1 {
+    text-align: center;
+    font-size: 4vw;
+
+    text-decoration-line: underline;
+}
+
+#features ul {
+    list-style-position: inside;
+}
+
+#features li {
+    text-align: center;
+    font-size: 2vw;
+}
+
+/* Pricing Styling */
+
+h2 {
+    text-align: center;
+    font-size: 3vw;
+
+    text-decoration-line: underline;
+}
+
+p {
+    text-align: center;
+    font-size: 3vw;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2vw;
+}
+
